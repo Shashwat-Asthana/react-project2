@@ -1,0 +1,19 @@
+h1{
+    
+    font-size: 48px;
+    font-weight: 800;
+    max-width: 80%;
+}
+
+p{
+    font-weight: 500;
+}
+*{
+    max-width: 1200px;
+  margin: 19 auto;
+}
+
+.contact_section{
+    max-width: 1000px;
+    margin: 0 auto;
+}
